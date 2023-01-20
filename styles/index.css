@@ -1,0 +1,16 @@
+.header-bg{
+    background: #264653 !important;
+    opacity: 90%;
+    color: white;
+}
+.star-icon, .half-star-icon{
+    width: 15px;
+    height: 15px;
+   
+}
+.navbar-bgc{
+    background: #264653 !important;
+    height: 100px;
+    
+}
+
