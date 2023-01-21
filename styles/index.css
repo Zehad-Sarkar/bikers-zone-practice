@@ -2,6 +2,7 @@
     background: #264653 !important;
     opacity: 90%;
     color: white;
+    
 }
 .star-icon, .half-star-icon{
     width: 15px;
@@ -12,5 +13,8 @@
     background: #264653 !important;
     height: 100px;
     
+}
+.sec-container{
+    z-index: -100;
 }
 
